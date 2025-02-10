@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import useAppStore from "@/store/app";
 import toast from "react-hot-toast";
-import { log } from "console";
+
 
 const TotalFollowers = () => {
     const { isFinishedOnboarding } = useAppStore();

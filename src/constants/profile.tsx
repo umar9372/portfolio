@@ -1,6 +1,6 @@
 // src/constants/profileConstants.ts
 import { ProfileData } from "@/types/main";
-import { Calendar, Clock, Figma, Github, Instagram, MapPin } from "lucide-react";
+import { Calendar, Clock, Github, Instagram, MapPin } from "lucide-react";
 
 // Create the constant with the defined type
 export const PROFILE_DATA: ProfileData = {
